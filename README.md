@@ -9,6 +9,8 @@
     Deliverable 3: Extract and Transform the Kaggle data
     Deliverable 4: Create the Movie Database
 
+## *Silly addition: I added an audio tone to the end of the code to alert me that the data loading is finished.*
+
 The table "movies" has 6,058 rows.
 ![movies_query](Resources/movies_query.png)
 
